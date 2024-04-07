@@ -1,0 +1,3 @@
+0 Plastic Bottle
+1 Metal can
+2 Reject
